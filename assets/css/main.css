@@ -1,5 +1,5 @@
 @import url("fontawesome-all.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600,600italic,700,700italic");
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@400;700&family=Syne+Tactile&display=swap');
 
 /*
 	Directive by HTML5 UP
@@ -87,7 +87,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: purple;
+		background: whitesmoke;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -103,7 +103,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: black;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Merienda', cursive;
 		font-size: 16pt;
 		font-weight: 400;
 		line-height: 1.75em;
@@ -2764,7 +2764,7 @@ input, select, textarea {
 		}
 
 		#header .logo {
-			background: #31839e;
+			background: rgba(154, 58, 201, 65);
 			border-radius: 100%;
 			color: #ffffff;
 			cursor: default;
@@ -2777,7 +2777,7 @@ input, select, textarea {
 			width: 2.35em;
 		}
 
-			#header .logo.fa-paper-plane-o:before {
+			#header .logo.fa-campground:before {
 				left: -0.075em;
 				position: relative;
 			}
@@ -2924,7 +2924,7 @@ input, select, textarea {
 
 		#main header.major,
 		#main footer.major {
-			background: rgba(247, 207, 25, 0.75);
+			background: rgba(194, 29, 196, 0.75);
 			color: white;
 		}
 
@@ -3305,7 +3305,7 @@ input, select, textarea {
 
 	h3 {
 		font-size: 2em;
-		color: floralwhite;
+		color: slateblue;
 	}
 
 	p {
