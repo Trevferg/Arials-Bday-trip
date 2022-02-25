@@ -2839,7 +2839,7 @@ input, select, textarea {
 		}
 
 		#footer header p {
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(224, 224, 224, 0.5);
 		}
 
 		#footer input[type="submit"],
@@ -2868,7 +2868,7 @@ input, select, textarea {
 		}
 
 		#footer .formerize-placeholder {
-			color: rgba(255, 255, 255, 0.3) !important;
+			color: rgba(0, 0, 0, 0.3) !important;
 		}
 
 		#footer form {
@@ -2900,7 +2900,7 @@ input, select, textarea {
 				}
 
 					#footer .copyright li a:hover, #footer .copyright li span:hover {
-						color: #ffffff;
+						color: #000000;
 					}
 
 /* Main */
@@ -2924,7 +2924,8 @@ input, select, textarea {
 
 		#main header.major,
 		#main footer.major {
-			background: #ffffff;
+			background: rgba(247, 207, 25, 0.75);
+			color: white;
 		}
 
 /* Wide */
